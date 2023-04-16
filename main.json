@@ -1,0 +1,43 @@
+[
+
+    {
+        "version": 12,
+        "title": "MY 002",
+        "description": "Widgets Made by - Ritesh.k21\nApp by - Pruvesh Shinde",
+        "author": "Ritesh.k21 & Purvesh",
+        "width": 960,
+        "height": 1407,
+        "features": "LOCATION WEATHER",
+        "release": 363227615,
+        "locked": false,
+        "pflags": 0
+    },
+    {
+        "version": 10,
+        "title": "kuper calendar",
+        "description": "komp used - smonth calendar",
+        "author": "Kushal Jain",
+        "email": "kushjain94@gmail.com",
+        "width": 822,
+        "height": 862,
+        "xscreens": 4,
+        "features": "CALENDAR",
+        "release": 334822306,
+        "locked": false,
+        "pflags": 0
+    },
+    {
+        "version": 10,
+        "title": "kuper music",
+        "description": "",
+        "author": "Kushal Jain",
+        "email": "kushjain94@gmail.com",
+        "width": 820,
+        "height": 466,
+        "xscreens": 4,
+        "features": "MUSIC",
+        "release": 334822306,
+        "locked": false,
+        "pflags": 0
+    }
+]
